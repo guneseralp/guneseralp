@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Gunes Eralp Mart and I'm a Electric-Electrical Enigineer, from Turkey</h2>
 
 ###
 
